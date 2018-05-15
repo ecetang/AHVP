@@ -1,7 +1,7 @@
 # AHVP
 Adaptive Hierarchical Motion-Focused Model for Video Prediction
 
-Some results of generating 3 future frames given 4 frames:
+Some predictions of our model (Each video contains 4 input frames and 3 generated ones.):
 
 ![image](https://github.com/ecetang/AHVP/blob/master/res/1.gif)
 ![image](https://github.com/ecetang/AHVP/blob/master/res/2.gif)
